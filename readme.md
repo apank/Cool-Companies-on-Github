@@ -155,6 +155,7 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 * [Credit Karma](https://github.com/creditkarma)
 * [Venmo](https://github.com/venmo)
 * [Clarity Money](https://github.com/claritymoney)
+* [Paypal](https://github.com/paypal)
 
 
 #### Music
@@ -180,3 +181,7 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 
 #### Food Ordering
 * [Seamless](https://github.com/goseamless)
+
+#### Digital Agencies
+* [Red Antler](https://github.com/redantler)
+* [Madwell](https://github.com/madwell)
