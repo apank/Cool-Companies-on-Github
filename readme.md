@@ -185,3 +185,13 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 #### Digital Agencies
 * [Red Antler](https://github.com/redantler)
 * [Madwell](https://github.com/madwell)
+
+#### Government Agencies
+* [UK Government Digital Service](https://github.com/alphagov)
+
+
+#### E-Commerce
+* [Alibaba](https://github.com/alibaba)
+
+
+
