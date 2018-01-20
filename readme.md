@@ -147,15 +147,16 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 
 
 #### Finance
-* [Bloomberg](https://github.com/bloomberg)
-* [Robinhood](https://github.com/robinhood)
-* [Forbes](https://github.com/forbes)
-* [TD Ameritrade](https://github.com/TDAmeritrade)
+* [American Express](https://github.com/americanexpress)
 * [Betterment](https://github.com/Betterment)
-* [Credit Karma](https://github.com/creditkarma)
-* [Venmo](https://github.com/venmo)
+* [Bloomberg](https://github.com/bloomberg)
 * [Clarity Money](https://github.com/claritymoney)
+* [Credit Karma](https://github.com/creditkarma)
+* [Forbes](https://github.com/forbes)
 * [Paypal](https://github.com/paypal)
+* [Robinhood](https://github.com/robinhood)
+* [TD Ameritrade](https://github.com/TDAmeritrade)
+* [Venmo](https://github.com/venmo)
 
 
 #### Music
