@@ -190,6 +190,7 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 * [B-Reel](https://github.com/b-reel)
 * [Code and Theory](https://github.com/codeandtheory)
 * [Firstborn](https://github.com/firstborn)
+* [Happy Cog](https://github.com/happycog)
 * [Huge Inc](https://github.com/hugeinc)
 * [Madwell](https://github.com/madwell)
 * [Mother, NYC](https://github.com/MotherNY)
