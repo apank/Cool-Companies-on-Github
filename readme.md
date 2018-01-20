@@ -183,8 +183,22 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 * [Seamless](https://github.com/goseamless)
 
 #### Digital Agencies
-* [Red Antler](https://github.com/redantler)
+* [Area 17](https://github.com/area17)
+* [Big Spaceship](https://github.com/bigspaceship)
+* [B-Reel](https://github.com/b-reel)
+* [Code and Theory](https://github.com/codeandtheory)
+* [Firstborn](https://github.com/firstborn)
+* [Huge Inc](https://github.com/hugeinc)
 * [Madwell](https://github.com/madwell)
+* [Mother, NYC](https://github.com/MotherNY)
+* [Red Antler](https://github.com/redantler)
+* [R/GA](https://github.com/RGADigital)
+* [Thoughtbot](https://github.com/thoughtbot)
+* [Wieden+Kennedy, Portland](https://github.com/wieden-kennedy)
+* [Wieden+Kennedy, Shanghai](https://github.com/wkshanghai)
+* [Wieden+Kennedy, NYC](https://github.com/WiedenKennedyNYC)
+* [Wieden+Kennedy, Brazil](https://github.com/wksaopaulo)
+* [Wieden+Kennedy, Delhi](https://github.com/wkdelhi)
 
 #### Government Agencies
 * [UK Government Digital Service](https://github.com/alphagov)
