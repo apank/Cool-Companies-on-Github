@@ -20,11 +20,12 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 * [Nike](https://github.com/Nike-Inc)
 
 
-#### Shop
-* [Gilt](https://github.com/gilt)
-* [UrbanDaddy](https://github.com/urbandaddy)
-* [Groupon](https://github.com/groupon)
+#### E-Commerce
+* [Alibaba](https://github.com/alibaba)
 * [Amazon](https://github.com/amzn)
+* [Gilt](https://github.com/gilt)
+* [Groupon](https://github.com/groupon)
+* [UrbanDaddy](https://github.com/urbandaddy)
 
 
 #### Medical
@@ -209,10 +210,6 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 
 #### Government Agencies
 * [UK Government Digital Service](https://github.com/alphagov)
-
-
-#### E-Commerce
-* [Alibaba](https://github.com/alibaba)
 
 
 #### Project Management
