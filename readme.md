@@ -42,10 +42,13 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 * [Outdoorsy](https://github.com/outdoorsy)
 
 
-#### Roof Over Your Head Sharing Service
+#### Real Estate
 * [Airbnb](https://github.com/airbnb)
-* [Homeaway](https://github.com/homeaway)
 * [Couch Surfing](https://github.com/couchsurfing)
+* [Homeaway](https://github.com/homeaway)
+* [realestate.com.au](https://github.com/realestate-com-au)
+* [StreetEasy](https://github.com/streeteasy)
+* [Trulia](https://github.com/trulia)
 
 
 #### Travel
