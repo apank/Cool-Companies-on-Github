@@ -173,6 +173,7 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 
 #### News
 * [BBC](https://github.com/bbc)
+* [BuzzFeed](https://github.com/buzzfeed)
 * [CNBC](https://github.com/cnbc)
 * [FiveThirtyEight](https://github.com/fivethirtyeight)
 * [NY Daily News](https://github.com/nydailynews)
@@ -234,6 +235,7 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 #### Software
 * [Adobe](https://github.com/adobe)
 * [Autodesk](https://github.com/autodesk)
+* [Bohemian](https://github.com/bohemiancoding)
 
 
 #### Sports
