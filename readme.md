@@ -125,6 +125,11 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 
 
 #### Government Agencies
+* [City of New York](https://github.com/cityofnewyork)
+* [New York City Comptroller](https://github.com/NYCComptroller)
+* [New York City Council](https://github.com/NewYorkCityCouncil)
+* [New York City Mayor's Office of Analytics](https://github.com/moda-nyc)
+* [New York City Planning](https://github.com/NYCPlanning)
 * [State of California](https://github.com/stateofca)
 * [UK Government Digital Service](https://github.com/alphagov)
 
