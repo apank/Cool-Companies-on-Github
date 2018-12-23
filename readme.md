@@ -23,6 +23,8 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 #### E-Commerce
 * [Alibaba](https://github.com/alibaba)
 * [Amazon](https://github.com/amzn)
+* [BarkBox](https://github.com/barkbox)
+* [Dollar Shave Club](https://github.com/dollarshaveclub/study)
 * [Gilt](https://github.com/gilt)
 * [Groupon](https://github.com/groupon)
 * [UrbanDaddy](https://github.com/urbandaddy)
@@ -50,6 +52,7 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 * [realestate.com.au](https://github.com/realestate-com-au)
 * [StreetEasy](https://github.com/streeteasy)
 * [Trulia](https://github.com/trulia)
+* [WeWork](https://github.com/wework)
 
 
 #### Travel
