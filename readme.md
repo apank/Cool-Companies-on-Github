@@ -14,6 +14,7 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 #### Sports
 * [NFL](https://github.com/nfl)
 * [NHL](https://github.com/nhl)
+* [Under Armour](https://github.com/underarmour)
 
 
 #### Clothing
@@ -114,6 +115,7 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 * [Apple](https://github.com/apple)
 * [Huawei](https://github.com/huawei)
 * [IBM](https://github.com/IBM)
+* [MakerBot](https://github.com/makerbot)
 * [Bose](https://github.com/bose)
 
 
