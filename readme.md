@@ -10,6 +10,11 @@ I couldn't find a listing or a way to search for cool big companies that are on 
 See any companies missing? Have a better way to categorize? Please make a PR :D
 
 
+### Automotive
+* [Ford](https://github.com/ford)
+* [Tesla Motors](https://github.com/tesla-motors)
+* [Toyota Research Institute](https://github.com/ToyotaResearchInstitute)
+
 
 #### Anti-Virus
 * [Avast](https://github.com/avast)
@@ -18,7 +23,9 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 * [Mcafee](https://github.com/mcafee)
 
 
-#### Clothing
+#### Retail
+* [Adidas](https://github.com/adidas)
+* [Home Depot](https://github.com/homedepot)
 * [Nike](https://github.com/Nike-Inc)
 
 
@@ -31,11 +38,20 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 
 #### Communication
 * [Slack](https://github.com/slackhq)
+* [WhatsApp](https://github.com/whatsapp)
+* [Wickr](https://github.com/WickrInc)
+* [Yandex](https://github.com/yandex)
 
 
 #### CRM
 * [Pipedrive](https://github.com/pipedrive)
 * [Salesforce](https://github.com/salesforce)
+
+
+### Dating
+* [Badoo](https://github.com/badoo)
+* [eHarmony](https://github.com/eHarmony)
+* [Tinder](https://github.com/tinder)
 
 
 #### Defense Contractors
@@ -51,6 +67,7 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 * [Happy Cog](https://github.com/happycog)
 * [Huge Inc](https://github.com/hugeinc)
 * [Madwell](https://github.com/madwell)
+* [McKinsey & Company](https://github.com/mckinsey)
 * [Mother, NYC](https://github.com/MotherNY)
 * [Red Antler](https://github.com/redantler)
 * [R/GA](https://github.com/RGADigital)
@@ -66,10 +83,18 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 * [Alibaba](https://github.com/alibaba)
 * [Amazon](https://github.com/amzn)
 * [BarkBox](https://github.com/barkbox)
-* [Dollar Shave Club](https://github.com/dollarshaveclub/study)
+* [Dollar Shave Club](https://github.com/dollarshaveclub)
 * [Gilt](https://github.com/gilt)
 * [Groupon](https://github.com/groupon)
 * [UrbanDaddy](https://github.com/urbandaddy)
+
+
+### Enterprise Software
+* [IBM](https://github.com/IBM)
+* [Microsoft](https://github.com/Microsoft)
+* [Oracle](https://github.com/oracle)
+* [Sage](https://github.com/sage)
+* [SAP](https://github.com/sap)
 
 
 #### Finance
@@ -85,7 +110,11 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 * [Venmo](https://github.com/venmo)
 
 
-#### Food Ordering
+#### Food, Beverage + Grocery Delivery
+* [Delivery.com](https://github.com/Deliverydotcom)
+* [Grubhub](https://github.com/grubhub)
+* [Minibar Delivery](https://github.com/minibardelivery)
+* [Postmates](https://github.com/postmates)
 * [Seamless](https://github.com/goseamless)
 
 
@@ -96,6 +125,7 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 
 
 #### Government Agencies
+* [State of California](https://github.com/stateofca)
 * [UK Government Digital Service](https://github.com/alphagov)
 
 
@@ -103,9 +133,10 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 * [Apple](https://github.com/apple)
 * [Bose](https://github.com/bose)
 * [Huawei](https://github.com/huawei)
-* [IBM](https://github.com/IBM)
 * [MakerBot](https://github.com/makerbot)
+* [Prusa3d](https://github.com/prusa3d)
 * [Samsung](https://github.com/samsung)
+* [Ultimaker](https://github.com/ultimaker)
 
 
 #### Mail
@@ -150,6 +181,7 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 #### Project Management
 * [Asana](https://github.com/asana)
 * [Basecamp](https://github.com/basecamp)
+* [Hootsuite](https://github.com/hootsuite)
 * [Trello](https://github.com/trello)
 
 
@@ -175,11 +207,21 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 * [Yahoo](https://github.com/yahoo)
 
 
+### Server Hosting
+* [AWS](https://github.com/aws)
+* [Bluehost](https://github.com/bluehost)
+* [DigitalOcean](https://github.com/digitalocean)
+* [GoDaddy](https://github.com/godaddy)
+* [Media Temple](https://github.com/mediatemple)
+* [Rackspace](https://github.com/rackerlabs)
+* [Rackspace - Rackerlabs](https://github.com/rackerlabs)
+* [Rackspace - RCBOPS](https://github.com/rcbops)
+
+
 #### Social Media
 * [Facebook](https://github.com/facebook)
 * [Instagram](https://github.com/instagram)
 * [Twitter](https://github.com/twitter)
-* [Tinder](https://github.com/tinder)
 * [Yelp](https://github.com/Yelp)
 * [Snapchat](https://github.com/snapchat)
 
@@ -187,7 +229,6 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 #### Software
 * [Adobe](https://github.com/adobe)
 * [Autodesk](https://github.com/autodesk)
-* [Microsoft](https://github.com/Microsoft)
 
 
 #### Sports
