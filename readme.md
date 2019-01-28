@@ -10,7 +10,14 @@ I couldn't find a listing or a way to search for cool big companies that are on 
 See any companies missing? Have a better way to categorize? Please make a PR :D
 
 
-### Automotive
+#### Automation
+* [Automate.io](https://github.com/automate-io)
+* [elastic.io](https://github.com/elasticio)
+* [Integromat](https://github.com/integromat)
+* [Zapier](https://github.com/zapier)
+
+
+#### Automotive
 * [Ford](https://github.com/ford)
 * [Tesla Motors](https://github.com/tesla-motors)
 * [Toyota Research Institute](https://github.com/ToyotaResearchInstitute)
@@ -31,7 +38,7 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 
 #### CMS
 * [Shopify](https://github.com/shopify)
-* [Square](https://github.com/square)
+* [Squarespace](https://github.com/squarespace)
 * [Wix](https://github.com/wix)
 * [Wordpress](https://github.com/wordpress)
 
@@ -44,11 +51,18 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 
 
 #### CRM
+* [Freshworks Inc](https://github.com/sarastech)
 * [Pipedrive](https://github.com/pipedrive)
 * [Salesforce](https://github.com/salesforce)
 
 
-### Dating
+#### Customer Support
+* [Help Scout](https://github.com/helpscout)
+* [Freshdesk](https://github.com/freshdesk)
+* [Zendesk](https://github.com/zendesk)
+
+
+#### Dating
 * [Badoo](https://github.com/badoo)
 * [eHarmony](https://github.com/eHarmony)
 * [Tinder](https://github.com/tinder)
@@ -58,12 +72,24 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 * [Lockheed Martin](https://github.com/lmco)
 
 
+#### Design Software
+* [Adobe](https://github.com/adobe)
+* [Autodesk](https://github.com/autodesk)
+* [Autodesk Forge](https://github.com/Autodesk-Forge)
+* [Autodesk Fusion 360](https://github.com/AutodeskFusion360)
+* [Balsamiq](https://github.com/Balsamiq)
+* [Bohemian](https://github.com/bohemiancoding)
+* [InVision](https://www.invisionapp.com/)
+* [SketchUp](https://github.com/sketchup)
+
+
 #### Digital Agencies
 * [Area 17](https://github.com/area17)
 * [Big Spaceship](https://github.com/bigspaceship)
 * [B-Reel](https://github.com/b-reel)
 * [Code and Theory](https://github.com/codeandtheory)
 * [Firstborn](https://github.com/firstborn)
+* [Group Nine Media](https://github.com/groupninemedia)
 * [Happy Cog](https://github.com/happycog)
 * [Huge Inc](https://github.com/hugeinc)
 * [Madwell](https://github.com/madwell)
@@ -79,13 +105,21 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 * [Wieden+Kennedy, Delhi](https://github.com/wkdelhi)
 
 
+#### Document Signing
+* [DocuSign](https://github.com/DocuSign)
+* [HelloSign](https://github.com/hellosign)
+* [PandaDoc](https://github.com/pandadoc)
+
+
 #### E-Commerce
 * [Alibaba](https://github.com/alibaba)
 * [Amazon](https://github.com/amzn)
 * [BarkBox](https://github.com/barkbox)
 * [Dollar Shave Club](https://github.com/dollarshaveclub)
+* [Envato](https://github.com/envato)
 * [Gilt](https://github.com/gilt)
 * [Groupon](https://github.com/groupon)
+* [Thrillist Media Group](https://github.com/Thrillist)
 * [UrbanDaddy](https://github.com/urbandaddy)
 
 
@@ -106,12 +140,32 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 * [Forbes](https://github.com/forbes)
 * [Paypal](https://github.com/paypal)
 * [Robinhood](https://github.com/robinhood)
+* [Square](https://github.com/square)
 * [TD Ameritrade](https://github.com/TDAmeritrade)
 * [Venmo](https://github.com/venmo)
 
 
+#### Hiring
+* [Glassdoor](https://github.com/glassdoor)
+* [Indeed Alliances](https://github.com/indeedalliances)
+* [Indeed Assessments](https://github.com/indeedassessments)
+* [Indeed Engineering](https://github.com/indeedeng)
+* [Indeed Infrastructure Operations](https://github.com/indeedops)
+* [Indeed Labs](https://github.com/indeedlabs)
+* [Indeed Security](https://github.com/indeedsecurity)
+* [Toptal](https://github.com/toptal)
+
+
+#### HR
+* [BambooHR] (https://github.com/bamboohr)
+* [Paylocity](https://github.com/Paylocity)
+* [Ultimate Software](https://github.com/ultimatesoftware)
+* [Zenefits] (https://github.com/zenefits)
+
+
 #### Food, Beverage + Grocery Delivery
 * [Delivery.com](https://github.com/Deliverydotcom)
+* [Doordash](https://github.com/doordash)
 * [Grubhub](https://github.com/grubhub)
 * [Minibar Delivery](https://github.com/minibardelivery)
 * [Postmates](https://github.com/postmates)
@@ -125,6 +179,7 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 
 
 #### Government Agencies
+* [Consumer Financial Protection Bureau](https://github.com/cfpb)
 * [City of New York](https://github.com/cityofnewyork)
 * [New York City Comptroller](https://github.com/NYCComptroller)
 * [New York City Council](https://github.com/NewYorkCityCouncil)
@@ -142,10 +197,12 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 * [Prusa3d](https://github.com/prusa3d)
 * [Samsung](https://github.com/samsung)
 * [Ultimaker](https://github.com/ultimaker)
+* [Western Digital](https://github.com/westerndigitalcorporation)
 
 
 #### Mail
 * [Constant Contact](https://github.com/constantcontact)
+* [HubSpot](https://github.com/hubspot)
 * [Mailchimp](https://github.com/mailchimp)
 * [Marketo](https://github.com/marketo)
 * [Pardot](https://github.com/pardot)
@@ -161,6 +218,7 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 
 #### Music
 * [8tracks](https://github.com/8tracks)
+* [Bandcamp](https://bandcamp.com/)
 * [SoundCloud](https://github.com/soundcloud)
 * [Spotify](https://github.com/spotify)
 * [Rdio](https://github.com/rdio)
@@ -181,24 +239,29 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 * [NY Times -  Data Sci/Viz](https://github.com/TheUpshot)
 * [NY Times - News Dev](https://github.com/newsdev)
 * [Reddit](https://github.com/reddit)
+* [The Guardian](https://github.com/guardian)
 * [The Atlantic](https://github.com/theatlantic)
 
 
 #### Project Management
 * [Asana](https://github.com/asana)
 * [Basecamp](https://github.com/basecamp)
+* [Buffer](https://github.com/bufferapp)
 * [Hootsuite](https://github.com/hootsuite)
 * [Trello](https://github.com/trello)
 
 
 #### Real Estate
 * [Airbnb](https://github.com/airbnb)
+* [Compass](https://github.com/UrbanCompass)
 * [Couch Surfing](https://github.com/couchsurfing)
 * [Homeaway](https://github.com/homeaway)
+* [Procore](https://www.procore.com/)
 * [realestate.com.au](https://github.com/realestate-com-au)
 * [StreetEasy](https://github.com/streeteasy)
 * [Trulia](https://github.com/trulia)
 * [WeWork](https://github.com/wework)
+* [Zillow](https://github.com/zillow)
 
 
 #### Ride Sharing Service
@@ -209,15 +272,18 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 
 
 #### Search Engines
+* [DuckDuckGo](https://github.com/duckduckgo)
 * [Google](https://github.com/google)
 * [Yahoo](https://github.com/yahoo)
 
 
-### Server Hosting
+#### Server Hosting
 * [AWS](https://github.com/aws)
 * [Bluehost](https://github.com/bluehost)
+* [Cloudflare](https://github.com/cloudflare)
 * [DigitalOcean](https://github.com/digitalocean)
 * [GoDaddy](https://github.com/godaddy)
+* [Heroku](https://github.com/heroku)
 * [Media Temple](https://github.com/mediatemple)
 * [Rackspace](https://github.com/rackerlabs)
 * [Rackspace - Rackerlabs](https://github.com/rackerlabs)
@@ -227,15 +293,10 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 #### Social Media
 * [Facebook](https://github.com/facebook)
 * [Instagram](https://github.com/instagram)
+* [LinkedIn](https://github.com/linkedin)
+* [Snapchat](https://github.com/snapchat)
 * [Twitter](https://github.com/twitter)
 * [Yelp](https://github.com/Yelp)
-* [Snapchat](https://github.com/snapchat)
-
-
-#### Software
-* [Adobe](https://github.com/adobe)
-* [Autodesk](https://github.com/autodesk)
-* [Bohemian](https://github.com/bohemiancoding)
 
 
 #### Sports
@@ -262,6 +323,7 @@ See any companies missing? Have a better way to categorize? Please make a PR :D
 * [Netflix](https://github.com/netflix)
 * [Vimeo](https://github.com/vimeo)
 * [Youtube](https://github.com/youtube)
+* [Zoom] (https://github.com/zoom)
 
 
 #### Web Browsers
